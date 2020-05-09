@@ -28,8 +28,7 @@ OR
 On your other computer :
 * Start your jack server (eg with $jack_control start)
 * start the netjack master (eg with $jack_control iload netmanager)
-* put some sound in the "piFm" jack client.
-* ????
+* put some sound in the "piFm" jack client (eg with pulseaudio)
 * Enjoy !
 
 For change RDS info :
